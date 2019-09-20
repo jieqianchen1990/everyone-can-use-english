@@ -1,4 +1,5 @@
 
+注：本文已由jieqian修改，原文请看笑来原版:https://github.com/xiaolai/everyone-can-use-english
 
 # 人人都能用英语
 
